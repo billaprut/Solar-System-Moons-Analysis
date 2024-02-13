@@ -1,7 +1,5 @@
 # Solar-System-Moons-Analysis
 
-
-Solar System Moons AnalysisSolar System Moons Analysis
 I explored the characteristics of moons in our Solar System. The project involved extracting data from Wikipedia, cleaning it, and processing it for detailed analysis. 
 
 1. Data Cleaning and Validation: Renamed, reordered, and set indexes for columns to improve data clarity and usability. Removed irrelevant columns and utilized regular expressions for precise data extraction and formatting.
